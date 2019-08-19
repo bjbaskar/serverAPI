@@ -1,0 +1,44 @@
+02-Apr-2019 09:48:06 : [32minfo[39m : 🚀 Starting API server...
+02-Apr-2019 09:48:18 : [32minfo[39m : Successfully connected to database
+02-Apr-2019 09:48:18 : [32minfo[39m : 🔥 Server is ready at http://localhost:4000/graphql
+02-Apr-2019 09:48:18 : [32minfo[39m : 🔥 Playground is ready at http://localhost:4000/graphql
+02-Apr-2019 09:48:18 : [32minfo[39m : 🔥 Subscriptions is ready at ws://localhost:4000/graphql
+02-Apr-2019 10:01:42 : [32minfo[39m : 🚀 Starting API server...
+02-Apr-2019 10:01:54 : [32minfo[39m : Successfully connected to database
+02-Apr-2019 10:01:54 : [32minfo[39m : 🔥 Server is ready at http://localhost:5000/graphql
+02-Apr-2019 10:01:54 : [32minfo[39m : 🔥 Playground is ready at http://localhost:5000/graphql
+02-Apr-2019 10:01:54 : [32minfo[39m : 🔥 Subscriptions is ready at ws://localhost:5000/graphql
+02-Apr-2019 10:29:13 : [32minfo[39m : 🚀 Starting API server...
+02-Apr-2019 10:29:13 : [31merror[39m : Failure to connect to database: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+02-Apr-2019 10:30:49 : [32minfo[39m : 🚀 Starting API server...
+02-Apr-2019 10:30:49 : [31merror[39m : Failure to connect to database: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+02-Apr-2019 12:32:22 : [32minfo[39m : 🚀 Starting API server...
+02-Apr-2019 12:32:34 : [32minfo[39m : Successfully connected to database
+02-Apr-2019 12:32:34 : [32minfo[39m : 🔥 Server is ready at http://localhost:5000/graphql
+02-Apr-2019 12:32:34 : [32minfo[39m : 🔥 Playground is ready at http://localhost:5000/graphql
+02-Apr-2019 12:32:34 : [32minfo[39m : 🔥 Subscriptions is ready at ws://localhost:5000/graphql
+02-Apr-2019 12:33:31 : [32minfo[39m : 🚀 Starting API server...
+02-Apr-2019 12:33:44 : [32minfo[39m : Successfully connected to database
+02-Apr-2019 12:33:44 : [32minfo[39m : 🔥 Server is ready at http://localhost:5000/graphql
+02-Apr-2019 12:33:44 : [32minfo[39m : 🔥 Playground is ready at http://localhost:5000/graphql
+02-Apr-2019 12:33:44 : [32minfo[39m : 🔥 Subscriptions is ready at ws://localhost:5000/graphql
+02-Apr-2019 18:22:16 : [32minfo[39m : 🚀 Starting API server...
+02-Apr-2019 18:22:30 : [32minfo[39m : Successfully connected to database
+02-Apr-2019 18:22:30 : [32minfo[39m : 🔥 Server is ready at http://localhost:5000/graphql
+02-Apr-2019 18:22:30 : [32minfo[39m : 🔥 Playground is ready at http://localhost:5000/graphql
+02-Apr-2019 18:22:30 : [32minfo[39m : 🔥 Subscriptions is ready at ws://localhost:5000/graphql
+02-Apr-2019 18:22:44 : [32minfo[39m : 🚀 Starting API server...
+02-Apr-2019 18:22:57 : [32minfo[39m : Successfully connected to database
+02-Apr-2019 18:22:58 : [32minfo[39m : 🔥 Server is ready at http://localhost:5000/graphql
+02-Apr-2019 18:22:58 : [32minfo[39m : 🔥 Playground is ready at http://localhost:5000/graphql
+02-Apr-2019 18:22:58 : [32minfo[39m : 🔥 Subscriptions is ready at ws://localhost:5000/graphql
+02-Apr-2019 18:23:11 : [32minfo[39m : 🚀 Starting API server...
+02-Apr-2019 18:23:25 : [32minfo[39m : Successfully connected to database
+02-Apr-2019 18:23:25 : [32minfo[39m : 🔥 Server is ready at http://localhost:5000/graphql
+02-Apr-2019 18:23:25 : [32minfo[39m : 🔥 Playground is ready at http://localhost:5000/graphql
+02-Apr-2019 18:23:25 : [32minfo[39m : 🔥 Subscriptions is ready at ws://localhost:5000/graphql
+02-Apr-2019 18:23:32 : [32minfo[39m : 🚀 Starting API server...
+02-Apr-2019 18:23:45 : [32minfo[39m : Successfully connected to database
+02-Apr-2019 18:23:45 : [32minfo[39m : 🔥 Server is ready at http://localhost:5000/graphql
+02-Apr-2019 18:23:45 : [32minfo[39m : 🔥 Playground is ready at http://localhost:5000/graphql
+02-Apr-2019 18:23:45 : [32minfo[39m : 🔥 Subscriptions is ready at ws://localhost:5000/graphql
